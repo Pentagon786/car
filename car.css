@@ -1,0 +1,19 @@
+h1 {
+    background-color: aliceblue;
+    color: rgb(130, 218, 107);
+}
+body {
+    background-color: rgb(204, 141, 197);
+}
+button {
+    background: gold;
+}
+table {
+    border: 2px solid rgb(133, 203, 154);
+}
+
+th,
+td {
+    border: 1px solid rgb(130, 218, 107);
+}
+
